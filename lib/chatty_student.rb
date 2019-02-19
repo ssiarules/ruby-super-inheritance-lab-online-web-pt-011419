@@ -10,6 +10,3 @@ class ChattyStudent < Student
   puts "Pick me!" * 9
   end 
 end 
-#str = "0" * 999999
-
-# ['abc']*3
